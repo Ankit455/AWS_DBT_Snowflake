@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# ⚠️ Sensitive credentials — NEVER commit these
+profiles.yml
+aws_dbt_snowflake_project/profiles.yml
+.env
+*.env
+secrets.yml
+credentials.yml
