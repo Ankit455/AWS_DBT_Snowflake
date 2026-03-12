@@ -12,6 +12,7 @@ wheels/
 # ⚠️ Sensitive credentials — NEVER commit these
 profiles.yml
 aws_dbt_snowflake_project/profiles.yml
+aws_dbt_snowflake_project/tests/profiles.yml
 .env
 *.env
 secrets.yml
