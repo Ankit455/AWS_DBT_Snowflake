@@ -1,0 +1,7 @@
+{
+    "dbt.deferConfigPerProject": {
+        "aws_dbt_snowflake_project": {
+            "deferToProduction": true
+        }
+    }
+}
